@@ -49,6 +49,9 @@ const Formulario = (props) => {
     <Formulario nome="Maria" sombra="Digite sua idade..." />
     <Formulario nome="Tomas" sombra="DIgite seu livro..." />
     <Formulario nome="Antonieta" sombra="valor de pi..." />
+    <Formulario />
+    <Formulario />
+    <Formulario />
 
     </div>
   )
